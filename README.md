@@ -78,11 +78,11 @@ $ cd ..
 # Instalar as dependências do projeto
 $ npm install
 
-# É possivel popular o banco com alguns registros(Essa parte é opcional)
-$ npx sequelize-cli db:seed:all
-
 # Rodar as migrações
 $ npx sequelize-cli db:migrate
+
+# É possivel popular o banco com alguns registros(Essa parte é opcional)
+$ npx sequelize-cli db:seed:all
 
 # Executar a aplicação
 $ npm start
