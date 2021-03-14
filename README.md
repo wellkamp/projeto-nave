@@ -16,10 +16,10 @@
 </p>
 
 <h2 id='status'>Status do projeto</h2>
-<p>Em construção</p>
+<p>Finalizado.</p>
 
 <h2>Objetivo</h2>
-<p>O objetivo principal deste projeto é a admissão para a vaga de estágio em Back-end na empresa Nave</p>
+<p>O objetivo principal deste projeto é a admissão para a vaga de estágio em Back-end na empresa Nave.</p>
 <h3>Objetivos especificos</h3>
 <p>O objetivo especifico deste projeto é a implementação de uma API de um sistema que consiste
 em um banco de dados dos navers possuindo informações como: nomes, datas de nascimento, cargo, tempo de empresa e projeto que participou. 
@@ -48,10 +48,10 @@ A implementação desta API deve seguir o padrão RESTful e as respostas da API 
 
 <h2 id='prerequisitos'>Pré-requisitos</h2>
 <p> Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-<a href="www.github.com">Git,</a> <a https://nodejs.org/en/">Nodejs</a>.
+<a href="www.github.com">Git,</a> <a href="https://nodejs.org/en/">Nodejs</a>.
 </p>
 
-<p>Além disto é bom ter um bom editor para trabalhar com o código. Este projeto foi utilizado o editor 
+<p>Além disto é bom ter um editor para trabalhar com o código. Este projeto foi utilizado o editor 
 <a href="https://code.visualstudio.com/">VScode</a>.</p>
 
 <h2 id='rodando'>Rodando o servidor</h2>
@@ -81,7 +81,7 @@ $ npm install
 # Rodar as migrações
 $ npx sequelize-cli db:migrate
 
-# É possivel popular o banco com alguns registros(Essa parte é opcional)
+# É possivel popular o banco com alguns registros
 $ npx sequelize-cli db:seed:all
 
 # Executar a aplicação
@@ -91,17 +91,17 @@ $ npm start
 
 
 <h2>Tecnologias</h2>
-<p>As seguintes Tecnologias foram usadas</p>
+<p>As seguintes Tecnologias foram usadas:</p>
 <ul>
-<li><a href="https://pt.wikipedia.org/wiki/JavaScript">Javascript</a></li>
-<li><a href="https://nodejs.org/en/">NodeJS</a></li>
-<li><a href="https://sequelize.org/master/">Sequelize</a></li>
-<li><a href="https://www.postman.com/">Postman</a></li>
-<li><a href="https://www.mysql.com/">MySQL</a></li>
+<li><a href="https://pt.wikipedia.org/wiki/JavaScript">Javascript;</a></li>
+<li><a href="https://nodejs.org/en/">NodeJS;</a></li>
+<li><a href="https://sequelize.org/master/">Sequelize;</a></li>
+<li><a href="https://www.postman.com/">Postman;</a></li>
+<li><a href="https://www.mysql.com/">MySQL.</a></li>
 </ul>
 
 <h2 id='logica'>Exercicios de lógica</h2>
-<p>É possivel acessar os exercicios de lógica através deste link: <a href="https://codesandbox.io/s/exercicios-estagio-nave-fk1q7">Codesandbox</a><p>
+<p>É possivel acessar os exercicios de lógica através deste link: <a href="https://codesandbox.io/s/exercicios-estagio-nave-fk1q7">Codesandbox</a>.<p>
 
 <h2 id='postman'>Documentação da API no Postman</h2>
 <p>É possivel acessar a documentação através deste link: https://www.getpostman.com/collections/d69a16b62c94c9f4f954 </p>
