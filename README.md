@@ -48,7 +48,7 @@ A implementação desta API deve seguir o padrão RESTful e as respostas da API 
 
 <h2 id='prerequisitos'>Pré-requisitos</h2>
 <p> Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-<a href="www.github.com">Git,</a> <a href="https://nodejs.org/en/">Nodejs</a>.
+<a href="www.github.com">Git,</a> <a href="https://nodejs.org/en/">Nodejs</a> e o <a href="https://www.mysql.com/">MySQL.</a>
 </p>
 
 <p>Além disto é bom ter um editor para trabalhar com o código. Este projeto foi utilizado o editor 
