@@ -10,7 +10,8 @@
  <a href="#prerequisitos">Pré-requisitos</a> • 
  <a href="#rodando">Rodando o servidor</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#logica">Exercicios de lógica</a> • 
+ <a href="#logica">Exercicios de lógica</a> •
+ <a href="#postman">Documentação Postman</a> •
  <a href="#autor">Autor</a>
 </p>
 
@@ -96,10 +97,10 @@ $ npm start
 <li><a href="https://www.mysql.com/">MySQL</a></li>
 </ul>
 
-<h2>Exercicios de lógica</h2>
+<h2 id='logica'>Exercicios de lógica</h2>
 <p>É possivel acessar os exercicios de lógica através deste link: <a href="https://codesandbox.io/s/exercicios-estagio-nave-fk1q7">Codesandbox</a><p>
 
-<h2>Documentação da API no Postman</h2>
+<h2 id='postman'>Documentação da API no Postman</h2>
 <p>É possivel acessar a documentação através deste link: https://www.getpostman.com/collections/d69a16b62c94c9f4f954 </p>
 
 <h2>Autor</h2>
