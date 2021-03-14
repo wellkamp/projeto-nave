@@ -1,6 +1,6 @@
 <h1> Projeto estágio back-end Nave </h1> 
 <h2> Descrição do projeto </h2>
-<p> Projeto realizado para o teste de admissão da vaga de estágio em Back-end da empresa nave.</p>
+<p> Projeto realizado para o teste de admissão da vaga de estágio em back-end da empresa nave.</p>
 <p> </p>
 
 <p align="center">
