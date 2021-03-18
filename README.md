@@ -30,7 +30,7 @@ A implementação desta API deve seguir o padrão RESTful e as respostas da API 
 <ul>
 <li>[x] Navers
 <ul>
-<li>[x] Rota para listagem dos Navers./li>
+<li>[x] Rota para listagem dos Navers.</li>
 <li>[x] Rota para detalhar informações de um único naver através de seu identificador</li>
 <li>[x] Rota de Criação de Naver</li>
 </ul>
